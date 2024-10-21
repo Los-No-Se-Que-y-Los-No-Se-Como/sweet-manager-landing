@@ -30,4 +30,3 @@
 - **Database**: MySQL (with JWT Authentication for secure access)
 - **Containerization**: Docker (for easy deployment with both API and MySQL containers)
 - **Architecture**: CQRS, Domain Driven Design, SCRUM for development process
-
